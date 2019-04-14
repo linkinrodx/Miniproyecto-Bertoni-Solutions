@@ -102,3 +102,107 @@ E:\Proyectos RSS\Bertoni Solutions\Miniproyecto - Bertoni Solutions\Miniproyecto
 E:\Proyectos RSS\Bertoni Solutions\Miniproyecto - Bertoni Solutions\Miniproyecto - Bertoni Solutions\obj\Debug\Miniproyecto - Bertoni Solutions.pdb
 E:\Proyectos RSS\Bertoni Solutions\Miniproyecto - Bertoni Solutions\Miniproyecto - Bertoni Solutions\bin\roslyn\System.Collections.Immutable.dll
 E:\Proyectos RSS\Bertoni Solutions\Miniproyecto - Bertoni Solutions\Miniproyecto - Bertoni Solutions\obj\Debug\Miniproyecto - Bertoni Solutions.csprojAssemblyReference.cache
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\ApplicationInsights.config
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\Miniproyecto - Bertoni Solutions.dll.config
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\Miniproyecto - Bertoni Solutions.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\Miniproyecto - Bertoni Solutions.pdb
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\csc.exe
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\csc.exe.config
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\csc.rsp
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\csi.exe
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\csi.exe.config
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\csi.rsp
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\System.AppContext.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\System.Collections.Immutable.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\System.Console.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\System.Diagnostics.Process.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\System.IO.Compression.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\System.IO.FileSystem.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\System.IO.Pipes.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\System.Reflection.Metadata.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\System.Security.AccessControl.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\System.Security.Claims.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\System.Threading.Thread.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\System.ValueTuple.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\System.Xml.XPath.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\vbc.exe
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\vbc.exe.config
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\vbc.rsp
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\VBCSCompiler.exe
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\roslyn\VBCSCompiler.exe.config
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\Antlr3.Runtime.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\EntityFramework.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\EntityFramework.SqlServer.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\Microsoft.AI.DependencyCollector.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\Microsoft.AI.Web.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\Microsoft.AI.WindowsServer.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\Microsoft.ApplicationInsights.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\Microsoft.Web.Infrastructure.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\Newtonsoft.Json.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\System.Web.Helpers.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\System.Web.Mvc.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\System.Web.Optimization.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\System.Web.Razor.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\System.Web.WebPages.Deployment.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\System.Web.WebPages.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\System.Web.WebPages.Razor.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\WebGrease.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\EntityFramework.xml
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\EntityFramework.SqlServer.xml
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\System.Web.Helpers.xml
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\System.Web.Mvc.xml
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\System.Web.Optimization.xml
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\System.Web.Razor.xml
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\System.Web.WebPages.xml
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\System.Web.WebPages.Deployment.xml
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\System.Web.WebPages.Razor.xml
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\Newtonsoft.Json.xml
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\Antlr3.Runtime.pdb
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\Microsoft.AI.DependencyCollector.xml
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\Microsoft.AI.WindowsServer.xml
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\Microsoft.AI.Web.xml
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\es\System.Web.Helpers.resources.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\es\System.Web.Mvc.resources.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\es\System.Web.Optimization.resources.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\es\System.Web.Razor.resources.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\es\System.Web.WebPages.resources.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\obj\Debug\Miniproyecto - Bertoni Solutions.csprojAssemblyReference.cache
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\obj\Debug\Miniproyecto - Bertoni Solutions.csproj.CoreCompileInputs.cache
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\obj\Debug\Miniproyecto - Bertoni Solutions.csproj.CopyComplete
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\obj\Debug\Miniproyecto - Bertoni Solutions.dll
+E:\Proyectos RSS\Bertoni Solutions Git 2\Miniproyecto - Bertoni Solutions\obj\Debug\Miniproyecto - Bertoni Solutions.pdb

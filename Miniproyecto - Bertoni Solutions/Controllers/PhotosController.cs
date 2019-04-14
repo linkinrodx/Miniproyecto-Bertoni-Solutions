@@ -25,5 +25,19 @@ namespace Miniproyecto___Bertoni_Solutions.Controllers
 
             return View(ListaPhotos);
         }
+
+        [HttpPost]
+        public ActionResult CargarComments(int PhotoId = 0)
+        {
+            var response = Services.GetComments(PhotoId);
+            var ListaComments = new List<Comment>();
+
+            if (response != null)
+            {
+                ListaComments = JsonConvert.DeserializeObject<List<Comment>>(response);
+            }
+
+            return PartialView("PartialPhotos", ListaComments);
+        }
     }
 }
