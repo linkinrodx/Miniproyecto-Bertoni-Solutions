@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Miniproyecto___Bertoni_Solutions.Models.Album>
+
+@{
+    ViewBag.Title = "Albums";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Listado de Albums</h2>
+
+@if (Model != null && Model.Count() > 0)
+{
+    <table class="table">
+        <tr>
+            <th>
+                Id
+            </th>
+            <th>
+                Título
+            </th>
+            <th>
+                Acciones
+            </th>
+        </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.title)
+            </td>
+            <td>
+                <a href="@Url.Action("Index", "Photos", new { AlbumId = item.id })">Visualizar Album</a>
+            </td>
+        </tr>
+    }
+    </table>
+}
+else
+{
+    <p>No se encontraron resultados</p>
+}
